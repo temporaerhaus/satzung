@@ -1,10 +1,11 @@
-# Verschwörhaus e.V. Satzung 
+# temporärhaus e.V.Satzung 
+
 Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbarkeit die weibliche Sprachform. Es sind dabei jedoch stets sämtliche Geschlechter gemeint.  
 
 ## Name, Sitz und Geschäftsjahr des Vereins 
-1. Der Verein trägt den Namen „Verschwörhaus“ – im Folgenden „Verein“ genannt. Er soll im Vereinsregister eingetragen werden. Nach der Eintragung trägt der Verein den Namen „Verschwörhaus e.V.“ 
+1. Der Verein trägt den Namen „temporärhaus“ – im Folgenden „Verein“ genannt. Er soll im Vereinsregister eingetragen werden. Nach der Eintragung trägt der Verein den Namen „temporärhaus e.V.“ 
 2. Sitz des Vereins ist Ulm/Donau. 
-3. Geschäftsjahr ist das Kalenderjahr. 
+3. Geschäftsjahr ist das Kalenderjahr.
 
 ## Zweck des Vereins 
 1. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe und die Förderung von Wissenschaft und Forschung. 
@@ -45,7 +46,7 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 4. Der Austritt eines Fördermitglieds kann jederzeit mit sofortiger Wirkung schriftlich oder per E-Mail durch Kündigung erklärt werden. 
 5. Der Ausschluss eines Mitglieds mit sofortiger Wirkung und aus wichtigem Grund kann dann ausgesprochen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Vereinsinteressen verstößt. Über den Ausschluss eines Mitglieds entscheidet der Vorstand. Vor dem Beschluss ist dem Mitglied unter Fristsetzung von zwei Wochen Gelegenheit zu geben, sich zu den erhobenen Vorwürfen zu äußern. Auf Wunsch erhalten ausgeschlossene Mitglieder die Gelegenheit, auf der dem Vereinsausschluss folgenden Mitgliederversammlung Widerspruch gegen die Entscheidung einzulegen. In diesem Fall entscheidet die Mitgliederversammlung abschließend. 
 6. Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf rückständige Beitragsforderungen bleibt gegenüber aktiven Mitgliedern hiervon unberührt. 
-7. Die Mitgliedschaft endet durch Streichung, wenn die Anschrift des Mitglieds entgegen ## Absatz 2 Satz 2 unbekannt ist oder wenn trotz zweimaliger Mahnung im Mindestabstand von zwei Wochen die Mitgliedsbeiträge nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. In dieser ist auf die Streichung hinzuweisen. Nach Verstreichen einer Erklärungsfrist von drei Monaten endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung. 
+7. Die Mitgliedschaft endet durch Streichung, wenn die Anschrift des Mitglieds entgegen § 4 Absatz 2 Satz 2 unbekannt ist oder wenn trotz zweimaliger Mahnung im Mindestabstand von zwei Wochen die Mitgliedsbeiträge nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. In dieser ist auf die Streichung hinzuweisen. Nach Verstreichen einer Erklärungsfrist von drei Monaten endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung. 
 
 ## Mitgliedsbeiträge 
 1. Der Verein erhebt Aufnahme- und Mitgliedsbeiträge gemäß einer von der Mitgliederversammlung beschlossenen Beitragsordnung.
@@ -81,7 +82,7 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 
 ## Der Vorstand 
 1. Der Vorstand wird durch die Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Nicht gewählt werden können Mitglieder, die zum Zeitpunkt der Wahl das 18. Lebensjahr noch nicht vollendet haben und Personen, die im Verein angestellt sind. 
-2. Vorstand im Sinne des ## BGB sind die 1. und. 2. Vorsitzende. Sie sind je alleine vertretungsberechtigt. Im Innenverhältnis darf die 2. Vorsitzende den Verein nur bei Verhinderung der 1. Vorsitzenden vertreten. 
+2. Vorstand im Sinne des § 26 BGB sind die 1. und. 2. Vorsitzende. Sie sind je alleine vertretungsberechtigt. Im Innenverhältnis darf die 2. Vorsitzende den Verein nur bei Verhinderung der 1. Vorsitzenden vertreten. 
 3. Der Vorstand des Vereins besteht aus: 
     a. der 1. Vorsitzenden, 
     b. der 2. Vorsitzenden, 
@@ -92,33 +93,22 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 5. Scheidet ein Mitglied des Vorstands aus, ist eine Nachwahl in der nächsten Mitgliederversammlung anzustreben. Die Amtszeit bei Nachwahlen endet mit der Amtszeit des bestehenden Vorstands. 
 6. Der Vorstand kann für die Dauer seiner Amtszeit durch Beschluss mit 2/3 Stimmenmehrheit weitere wählbare Mitglieder des Vereins für bislang nicht besetzte Beisitzerposten kooptieren. 
 7. Der Vorstand entscheidet in allen Vereinsangelegenheiten, soweit sie nicht der Mitgliederversammlung vorbehalten sind. Der Vorstand ist berechtigt, sachkundige Personen hinzuzuziehen. 
-8. Der Vorstand ist bei Anwesenheit von 2/3 der Vorstandsmitglieder beschlussfähig. Er fasst Beschlüsse mit einfacher Mehrheit der anwesenden Mitglieder. Bei Stimmengleichheit ist der Antrag abgelehnt. Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen. 
-9. Die Beschlüsse des Vorstandes sind zu protokollieren und von der Protokollantin sowie von der 1. Vorsitzenden, bei Verhinderung durch die 2. Vorsitzende zu unterzeichnen. 
-10. Die Mitglieder der Vorstandschaft können für die Aufgabenwahrnehmung im Rahmen der haushaltsrechtlichen Möglichkeiten des Vereins gegen Zahlung einer Aufwandsentschädigung nach ## Nr. 26a EStG vergütet werden. Die Entscheidung hierzu trifft ausschließlich die Mitgliederversammlung. Eine Entscheidung mit Rückwirkung ist nicht zulässig. 
-11. Der Vorstand kann durch Beschluss als besonderen Vertreter gemäß ## BGB eine hauptamtliche Geschäftsführerin bestellen, die die laufenden Geschäfte des Vereins führt. Sofern hauptamtliche Vereinsmitarbeiterinnen eingestellt wurden, ist die Geschäftsführerin ihre Vorgesetzte. Über Arbeitsverträge, Kündigungen sowie über die Behandlung von Mitgliedern entscheidet allein der Vorstand. 
-12. Bei Mitgliederversammlungen hat die hauptamtliche Geschäftsführerin anwesend zu sein. Sie darf an Vorstandssitzungen teilnehmen und ist sogar dazu verpflichtet, sofern dies der Vorstand wünscht. Sie hat auf allen Sitzungen Rederecht. 
-13. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden. 
+8. Der Vorstand ist bei Anwesenheit von 2/3 der Vorstandsmitglieder beschlussfähig. Er fasst Beschlüsse mit einfacher Mehrheit der anwesenden Mitglieder. Bei Stimmengleichheit ist der Antrag abgelehnt. Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.
+9. Die Beschlüsse des Vorstandes sind zu protokollieren und von der Protokollantin sowie von der 1. Vorsitzenden, bei Verhinderung durch die 2. Vorsitzende zu unterzeichnen.
+10. Die Mitglieder der Vorstandschaft können für die Aufgabenwahrnehmung im Rahmen der haushaltsrechtlichen Möglichkeiten des Vereins gegen Zahlung einer Aufwandsentschädigung nach § 3 Nr. 26a EStG vergütet werden. Die Entscheidung hierzu trifft ausschließlich die Mitgliederversammlung. Eine Entscheidung mit Rückwirkung ist nicht zulässig.
+11. Der Vorstand kann durch Beschluss als besonderen Vertreter gemäß §30 BGB eine hauptamtliche Geschäftsführerin bestellen, die die laufenden Geschäfte des Vereins führt. Sofern hauptamtliche Vereinsmitarbeiterinnen eingestellt wurden, ist die Geschäftsführerin ihre Vorgesetzte. Über Arbeitsverträge, Kündigungen sowie über die Behandlung von Mitgliedern entscheidet allein der Vorstand.
+12. Bei Mitgliederversammlungen hat die hauptamtliche Geschäftsführerin anwesend zu sein. Sie darf an Vorstandssitzungen teilnehmen und ist sogar dazu verpflichtet, sofern dies der Vorstand wünscht. Sie hat auf allen Sitzungen Rederecht.
+13. Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt werden.
 
 ## Kassenprüfung 
-1. Die Mitgliederversammlung wählt zwei Kassenprüferinnen. Der Kassenprüfung obliegen die laufende Überwachung der Rechnungs- und Kassenführung sowie die Prüfung des durch die Kassenwartin erstellten Jahresabschlusses. Die Kassenprüferinnen werden auf ein Jahr gewählt. Ein Vorstandsmitglied und dessen Ehegatte/Lebenspartner kann nicht Kassenprüferin sein. 
-2. Die Ergebnisse der Feststellungen der Prüfung sind bei der Mitgliederversammlung persönlich vorzutragen und danach die Entlastung zu empfehlen. Falls die Entlastung nicht zu empfehlen ist, muss dies begründet werden. 
+1. Die Mitgliederversammlung wählt zwei Kassenprüferinnen. Der Kassenprüfung obliegen die laufende Überwachung der Rechnungs- und Kassenführung sowie die Prüfung des durch die Kassenwartin erstellten Jahresabschlusses. Die Kassenprüferinnen werden auf ein Jahr gewählt. Ein Vorstandsmitglied und dessen Ehegatte/Lebenspartner kann nicht Kassenprüferin sein.
+2. Die Ergebnisse der Feststellungen der Prüfung sind bei der Mitgliederversammlung persönlich vorzutragen und danach die Entlastung zu empfehlen. Falls die Entlastung nicht zu empfehlen ist, muss dies begründet werden.
 
-## Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke 
-1. Im Falle der Auflösung des Vereins erfolgt die Liquidierung durch die 1. und die 2. Vorsitzende, falls die Mitgliederversammlung keine anderen Personen beruft. 
-2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das vorhandene Vereinsvermögen an eine Körperschaft des öffentlichen Rechts oder an eine als steuerbegünstigt besonders anerkannte Körperschaft, die es unmittelbar und ausschließlich für die Förderung der Bildung im Sinne der Satzung zu verwenden hat. Den Empfänger bestimmt die Mitgliederversammlung zugleich mit dem Beschluss zur Auflösung des Vereins. 
-3. Die vorstehenden Bestimmungen gelten entsprechend, wenn der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert. 
+## Auflösung des Vereins, Beendigung aus anderen Gründen, Wegfall steuerbegünstigter Zwecke
+1. Im Falle der Auflösung des Vereins erfolgt die Liquidierung durch die 1. und die 2. Vorsitzende, falls die Mitgliederversammlung keine anderen Personen beruft.
+2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das vorhandene Vereinsvermögen an eine Körperschaft des öffentlichen Rechts oder an eine als steuerbegünstigt besonders anerkannte Körperschaft, die es unmittelbar und ausschließlich für die Förderung der Bildung im Sinne der Satzung zu verwenden hat. Den Empfänger bestimmt die Mitgliederversammlung zugleich mit dem Beschluss zur Auflösung des Vereins.
+3. Die vorstehenden Bestimmungen gelten entsprechend, wenn der Verein aus einem anderen Grund aufgelöst wird oder seine Rechtsfähigkeit verliert.
 
 ## Schlussbestimmung 
-Die Satzungs mit Beschlussfassung der Mitgliederversammlung vom 13.08.2019 tritt mit Eintragung in das Vereinsregister am 10.09.2019 in Kraft. 
+Die Satzungs mit Beschlussfassung der Mitgliederversammlung vom 13.08.2019 tritt mit Eintragung in das Vereinsregister am 10.09.2019 in Kraft.
 Ulm, am 13. August 2019 
-
-# Beitragsordnung Verschwörhaus e.V. 
-Nach § 6 der Satzung des Verschwörhaus e.V. haben Mitglieder die von der Mitgliederversammlung festgesetzten Beiträge zu entrichten. Die Beitragsordnung regelt die Höhe der Mitgliedsgebühren an den Verschwörhaus e.V. 
-## Höhe der Beiträge 
-1. Der Mitgliedsbeitrag für aktive Mitglieder beträgt 10 € im Monat. Auf Wunsch kann ein höherer Beitrag bestimmt werden. 
-2. Fördermitglieder können die Höhe ihres Mitgliedsbeitrages beim Aufnahmegesuch selbst bestimmen. Ihr Mindestbeitrag beträgt 1 € im Monat. 
-3. Es werden keine Aufnahmebeiträge erhoben. 
-## Fälligkeit und Zahlungsweise 
-1. Der Mitgliedsbeitrag ist im Voraus fällig. 
-2. Der Mitgliedsbeitrag kann je nach Wunsch monatlich, vierteljährlich, halbjährlich oder jährlich bezahlt werden. 
-3. Die Zahlung des Beitrages erfolgt per Lastschrift, durch Überweisung oder in bar.

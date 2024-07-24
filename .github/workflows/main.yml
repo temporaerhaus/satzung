@@ -1,0 +1,33 @@
+name: Building Satzung
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Extract version infos
+        id: version
+        run: |
+          echo "LASTCOMMIT=$(git log -1 --date=format:'%d/%m/%Y' --format='%ad' ./satzung.md)" >> $GITHUB_ENV
+      - run: |
+          echo "${{env.LASTCOMMIT}}"
+      - name: Extract Changelog
+        id: changelog
+        run: |
+          perl .github/workflows/changelog.pl > changelog.tex
+      - run: |
+          echo "${{env.CHANGELOG}}"
+      - uses: docker://pandoc/extra:3.1.1.0
+        with:
+          args: "--template=./template/template.tex -o satzung.pdf -V lastcommitdate=${{env.LASTCOMMIT}} -V changes=${{steps.changelog.CHANGELOG}} satzung.md"
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "satzung.pdf"
+          body: "Satzung"

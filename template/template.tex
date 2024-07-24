@@ -1,0 +1,50 @@
+\documentclass[a4paper, 11pt]{article} % das Papierformat zuerst
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, top=25mm, left=35mm, right=25mm, bottom=25mm}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{epstopdf}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{tabularx}
+\usepackage[ngerman]{babel} 
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{ifthen}
+\usepackage{etoolbox}
+\usepackage{hyperref}
+\definecolor{fsi}{RGB}{184,24,24}
+\newcounter{paragraphcounter}
+\preto{\subsection}{\stepcounter{paragraphcounter}}
+\renewcommand\thesection{\Alph{section}}
+\renewcommand\thesubsection{\S \ \arabic{paragraphcounter}}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\begin{document}
+
+\doublespacing
+\thispagestyle{empty}
+\begin{center}
+\includegraphics[width=5.0cm]{template/logo.png}
+\\
+\vspace*{\fill}
+{\LARGE \textbf{Satzung des temporärhaus e.V.}}\\
+\vspace{2.5cm}
+\textit{
+	In der gültigen Fassung vom $lastcommitdate$
+}
+\vfill
+\end{center}
+\hspace*{-35cm}
+\pagebreak
+\setcounter{tocdepth}{2}
+\tableofcontents
+\pagebreak
+\singlespacing
+$body$
+\newpage
+\section{Änderungsprotokoll}
+% Generated in github action
+\input{changelog.tex}
+\end{document}

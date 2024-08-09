@@ -116,6 +116,6 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 
 ## Schlussbestimmung
 
-Die Satzung mit Beschlussfassung der Mitgliederversammlung vom 13.08.2019 tritt mit Eintragung in das Vereinsregister am 10.09.2019 in Kraft.
+Die Satzung mit Beschlussfassung der Mitgliederversammlung vom 30.08.2024 tritt mit Eintragung in das Vereinsregister am TODO in Kraft.
 
-Ulm, am 13. August 2019
+Ulm, am 30. August 2024

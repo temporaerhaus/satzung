@@ -8,14 +8,14 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 3. Geschäftsjahr ist das Kalenderjahr.
 
 ## Zweck des Vereins
-1. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe und die Förderung von Wissenschaft und Forschung.
+1. Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe, die Förderung von Wissenschaft und Forschung und die Förderung des Freifunks.
 2. Der Satzungszweck wird verwirklicht insbesondere durch
     a. die Ausrichtung von Bildungsveranstaltungen, Workshops, Seminaren, Schulungen und Tagungen
     b. durch Jugendarbeit und Erwachsenenbildung
     c. die Förderung interdisziplinärer Arbeitsgruppen im digitalen Ehrenamt und die Kontaktvermittlung zwischen solchen Gruppen
     d. die Entwicklung, Erprobung und Etablierung von Konzepten und Angeboten zur Bildung und Weiterbildung jenseits konventioneller Berufsausbildung
     e. die Förderung von Wissenschaft und Forschung durch Pilotprojekte interdisziplinärer wissenschaftlicher Art
-    f. die Förderung von Freifunk.
+    f. die nichtkommerzielle Förderung der Einrichtung und Unterhaltung von Kommunikationsnetzwerken, die der Allgemeinheit offenstehen.
 
 ## Gemeinnützigkeit
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung in der jeweils gültigen Fassung.

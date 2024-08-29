@@ -57,9 +57,8 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 
 ## Organe des Vereins
 1. Die Organe des Vereins sind:
-   a. Die Mitgliederversammlung,
-   b. Der Haushaltsausschuss,
-   c. Der Vorstand.
+    a. Die Mitgliederversammlung,
+    b. Der Vorstand.
 2. Der Vorstand bleibt so lange im Amt, bis es ein neuer Vorstand übernommen hat.
 
 ## Die Mitgliederversammlung
@@ -85,14 +84,6 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 11. Jedes stimmberechtigte Mitglied hat eine Stimme. Das Stimmrecht ist nicht übertragbar.
 12. Die Mitgliederversammlung fasst ihre Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit gilt der gestellte Antrag als abgelehnt.
 13. Für Satzungsänderungen und Beschlüsse zur Auflösung des Vereins oder zur Abberufung des Vorstands ist eine Zweidrittelmehrheit der abgegebenen Stimmen erforderlich.
-
-## Der Haushaltsausschuss
-1. Der Haushaltsausschuss wird durch die Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
-2. Die Sitzungen des Haushaltsauschuss sind für alle Mitglieder des Vereins öffentlich.
-3. Der Haushaltsausschusses besteht aus mindestens 3 (CHANGE ME) und höchstens 7 (CHANGE ME) Mitgliedern.
-4. Mitglieder des Haushaltsausschusses können nur Mitglieder des Vereins sein. Die Wiederwahl oder die vorzeitige Abberufung eines Mitglieds durch die Mitgliederversammlung ist zulässig.
-5. Scheidet ein Mitglied des Haushaltsausschusses aus, ist eine Nachwahl in der nächsten Mitgliederversammlung anzustreben. Die Amtszeit bei Nachwahlen endet mit der Amtszeit des bestehenden Haushaltsausschusses.
-6. Der Haushaltausschuss stellt jährlich einen Haushaltsplan suf.
 
 ## Der Vorstand
 1. Der Vorstand wird durch die Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Nicht gewählt werden können Mitglieder, die zum Zeitpunkt der Wahl das 18. Lebensjahr noch nicht vollendet haben und Personen, die im Verein angestellt sind.

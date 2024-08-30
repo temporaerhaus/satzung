@@ -15,7 +15,6 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
     c. die Förderung interdisziplinärer Arbeitsgruppen im digitalen Ehrenamt und die Kontaktvermittlung zwischen solchen Gruppen
     d. die Entwicklung, Erprobung und Etablierung von Konzepten und Angeboten zur Bildung und Weiterbildung jenseits konventioneller Berufsausbildung
     e. die Förderung von Wissenschaft und Forschung durch Pilotprojekte interdisziplinärer wissenschaftlicher Art
-    f. die Förderung von Freifunk.
 
 ## Gemeinnützigkeit
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „steuerbegünstigte Zwecke“ der Abgabenordnung in der jeweils gültigen Fassung.
@@ -39,17 +38,16 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 
 ## Beginn und Ende der Mitgliedschaft
 1. Über die Aufnahme von Mitgliedern entscheidet der Vorstand. Der Antrag auf Aufnahme ist schriftlich zu stellen. Stimmt der Vorstand dem Aufnahmeantrag nicht zu, kann die Antragstellerin verlangen, dass über ihren Aufnahmeantrag in der nächsten Mitgliederversammlung abschließend beschlossen wird. Der Vorstand ist nicht verpflichtet, der Antragstellerin Ablehnungsgründe mitzuteilen.
-2. Die Entscheidung über die Aufnahme von Mitgliedern bedarf keiner Vorstandsitzung und kann durch fernmündliche Stimmabgabe erfolgen. Angenommene Mitgliedsanträge müssen in der nächsten regulären Vorstandssitzung dokumentiert werden.
-3. Die Mitgliedschaft im Verein endet durch:
-    a. den Tod des Mitglieds,
-    b. schriftliche Austrittserklärung gegenüber dem Vorstand,
-    c. Ausschluss,
-    d. durch Verlust der Rechtsfähigkeit bei juristischen Personen.
-4. Der Austritt eines aktiven Mitglieds oder eines Ehrenmitglieds muss durch schriftliche Kündigung zum Ende des Geschäftsjahres erklärt werden. Über unterjährige Beendigung der Mitgliedschaft entscheidet der Vorstand auf Antrag des Mitglieds.
-5. Der Austritt eines Fördermitglieds kann jederzeit mit sofortiger Wirkung schriftlich oder per E-Mail durch Kündigung erklärt werden.
-6. Der Ausschluss eines Mitglieds mit sofortiger Wirkung und aus wichtigem Grund kann dann ausgesprochen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Vereinsinteressen verstößt. Über den Ausschluss eines Mitglieds entscheidet der Vorstand. Vor dem Beschluss ist dem Mitglied unter Fristsetzung von zwei Wochen Gelegenheit zu geben, sich zu den erhobenen Vorwürfen zu äußern. Auf Wunsch erhalten ausgeschlossene Mitglieder die Gelegenheit, auf der dem Vereinsausschluss folgenden Mitgliederversammlung Widerspruch gegen die Entscheidung einzulegen. In diesem Fall entscheidet die Mitgliederversammlung abschließend.
-7. Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf rückständige Beitragsforderungen bleibt gegenüber aktiven Mitgliedern hiervon unberührt.
-8. Die Mitgliedschaft endet durch Streichung, wenn die Anschrift des Mitglieds entgegen § 4 Absatz 2 Satz 2 unbekannt ist oder wenn trotz zweimaliger Mahnung im Mindestabstand von zwei Wochen die Mitgliedsbeiträge nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. In dieser ist auf die Streichung hinzuweisen. Nach Verstreichen einer Erklärungsfrist von drei Monaten endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung.
+2. Die Mitgliedschaft im Verein endet durch:
+   a. den Tod des Mitglieds,
+   b. schriftliche Austrittserklärung gegenüber dem Vorstand,
+   c. Ausschluss,
+   d. durch Verlust der Rechtsfähigkeit bei juristischen Personen.
+3. Der Austritt eines aktiven Mitglieds oder eines Ehrenmitglieds muss durch schriftliche Kündigung zum Ende des Geschäftsjahres erklärt werden. Über unterjährige Beendigung der Mitgliedschaft entscheidet der Vorstand auf Antrag des Mitglieds.
+4. Der Austritt eines Fördermitglieds kann jederzeit mit sofortiger Wirkung schriftlich oder per E-Mail durch Kündigung erklärt werden.
+5. Der Ausschluss eines Mitglieds mit sofortiger Wirkung und aus wichtigem Grund kann dann ausgesprochen werden, wenn das Mitglied in grober Weise gegen die Satzung, Ordnungen, den Satzungszweck oder die Vereinsinteressen verstößt. Über den Ausschluss eines Mitglieds entscheidet der Vorstand. Vor dem Beschluss ist dem Mitglied unter Fristsetzung von zwei Wochen Gelegenheit zu geben, sich zu den erhobenen Vorwürfen zu äußern. Auf Wunsch erhalten ausgeschlossene Mitglieder die Gelegenheit, auf der dem Vereinsausschluss folgenden Mitgliederversammlung Widerspruch gegen die Entscheidung einzulegen. In diesem Fall entscheidet die Mitgliederversammlung abschließend.
+6. Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf rückständige Beitragsforderungen bleibt gegenüber aktiven Mitgliedern hiervon unberührt.
+7. Die Mitgliedschaft endet durch Streichung, wenn die Anschrift des Mitglieds entgegen § 4 Absatz 2 Satz 2 unbekannt ist oder wenn trotz zweimaliger Mahnung im Mindestabstand von zwei Wochen die Mitgliedsbeiträge nicht entrichtet wurden. Die zweite Mahnung muss schriftlich erfolgt sein. In dieser ist auf die Streichung hinzuweisen. Nach Verstreichen einer Erklärungsfrist von drei Monaten endet die Mitgliedschaft automatisch. Die Frist beginnt mit dem Absenden der zweiten Mahnung.
 
 ## Mitgliedsbeiträge
 1. Der Verein erhebt Aufnahme- und Mitgliedsbeiträge gemäß einer von der Mitgliederversammlung beschlossenen Beitragsordnung.

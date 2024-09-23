@@ -15,7 +15,7 @@ jobs:
       - name: Extract version infos
         id: version
         run: |
-          echo "LASTCOMMIT=$(git log -1 --date=format:'%d/%m/%Y' --format='%ad' ./satzung.md)" >> $GITHUB_ENV
+          echo "LASTCOMMIT=$(git log -1 --date=format:'%d.%m.%Y' --format='%ad' ./satzung.md)" >> $GITHUB_ENV
       - run: |
           echo "${{env.LASTCOMMIT}}"
       - name: Extract Changelog

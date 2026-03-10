@@ -1,4 +1,4 @@
-temporärhaus e.V. Satzung
+# temporärhaus e.V. Satzung
 
 Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbarkeit die weibliche Sprachform. Es sind dabei jedoch stets sämtliche Geschlechter gemeint.
 
@@ -85,13 +85,12 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 
 ## Der Vorstand
 1. Der Vorstand wird durch die Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Nicht gewählt werden können Mitglieder, die zum Zeitpunkt der Wahl das 18. Lebensjahr noch nicht vollendet haben und Personen, die im Verein angestellt sind.
-2. Vorstand im Sinne des § 26 BGB sind die 1. und. 2. Vorsitzende. Sie sind je alleine vertretungsberechtigt. Im Innenverhältnis darf die 2. Vorsitzende den Verein nur bei Verhinderung der 1. Vorsitzenden vertreten.
+2. Vorstand im Sinne des § 26 BGB sind alle gewählten, vertrende Vorstandsmitglieder. Sie vertreten grundsätzlich jeweils einzeln. 
+    a. Rechtsgeschäfte, die ein langfristiges oder unbegrenztes Verhältnis zu Dritten aufbauen oder beenden, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands.
+    b. Rechtsgeschäfte, die Konten oder Vermögenswerte des Vereins in erheblichem Maße beinflussen, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands. 
 3. Der Vorstand des Vereins besteht aus:
-    a. der 1. Vorsitzenden,
-    b. der 2. Vorsitzenden,
-    c. der Kassenwartin,
-    d. der Schriftführerin,
-    e. bis zu vier Beisitzerinnen.
+    a. Mindestens 4, maximal 6 gewählten vertretenden Vorstandsmitgliedern. 
+    b. bis zu vier Beisitzerinnen.
 4. Mitglieder des Vorstands können nur Mitglieder des Vereins sein. Die Wiederwahl oder die vorzeitige Abberufung eines Mitglieds durch die Mitgliederversammlung ist zulässig.
 5. Scheidet ein Mitglied des Vorstands aus, ist eine Nachwahl in der nächsten Mitgliederversammlung anzustreben. Die Amtszeit bei Nachwahlen endet mit der Amtszeit des bestehenden Vorstands.
 6. Der Vorstand kann für die Dauer seiner Amtszeit durch Beschluss mit 2/3 Stimmenmehrheit weitere wählbare Mitglieder des Vereins für bislang nicht besetzte Beisitzerposten kooptieren.

@@ -85,11 +85,11 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 
 ## Der Vorstand
 1. Der vertretende Vorstand wird durch die Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Er besteht aus mindestens 4, maximal 6 Mitgliedern. Nicht gewählt werden können Mitglieder, die zum Zeitpunkt der Wahl das 18. Lebensjahr noch nicht vollendet haben und Personen, die im Verein angestellt sind.
-2. Vorstand im Sinne des § 26 BGB sind alle Mitglieder des vertrentenden Vorstands. Sie vertreten grundsätzlich jeweils einzeln. 
+2. Vorstand im Sinne des § 26 BGB sind alle Mitglieder des vertretenden Vorstands. Sie vertreten grundsätzlich jeweils einzeln. 
     a. Rechtsgeschäfte, die ein langfristiges oder zeitlich unbegrenztes Verhältnis zu Dritten begründen oder beenden, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands.
     b. Rechtsgeschäfte, die Konten oder Vermögenswerte des Vereins in erheblichem Maße beinflussen, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands. 
 3. Der Vorstand des Vereins besteht aus:
-    a. dem vertretendem Vorstand. 
+    a. dem vertretendem Vorstand.
     b. bis zu vier Beisitzerinnen.
 4. Der Vorstand gibt sich eine Geschäftsordnung. Diese ist den Mitgliedern unmittelbar mitzuteilen. Die Geschäftsordnung regelt mindestens
     a. Die Haftung und Vertretung des Vereins im Innenverhältnis. 

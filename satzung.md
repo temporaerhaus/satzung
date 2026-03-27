@@ -89,7 +89,7 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
     a. Rechtsgeschäfte, die ein langfristiges oder zeitlich unbegrenztes Verhältnis zu Dritten begründen oder beenden, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands.
     b. Rechtsgeschäfte, die Konten oder Vermögenswerte des Vereins in erheblichem Maße beinflussen, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands. 
 3. Der Vorstand des Vereins besteht aus:
-    a. dem vertretendem Vorstand.
+    a. dem vertretenden Vorstand.
     b. bis zu vier Beisitzerinnen.
 4. Der Vorstand gibt sich eine Geschäftsordnung. Diese ist den Mitgliedern unmittelbar mitzuteilen. Die Geschäftsordnung regelt mindestens
     a. Die Haftung und Vertretung des Vereins im Innenverhältnis. 

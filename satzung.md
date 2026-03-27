@@ -93,7 +93,7 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
     b. bis zu vier Beisitzerinnen.
 4. Der Vorstand gibt sich eine Geschäftsordnung. Diese ist der Mitgliederversammlung vorzulegen. Die Geschäftsordnung regelt mindestens
     a. Die Haftung und Vertretung des Vereins im Innenverhältnis. 
-    b. Die Bestimmungen über die Rollen Schriftführerin und Kassier.
+    b. Die Bestimmungen über die Rollen Schriftführerin und Kassenwartin.
 5. Mitglieder des Vorstands können nur Mitglieder des Vereins sein. Die Wiederwahl oder die vorzeitige Abberufung eines Mitglieds durch die Mitgliederversammlung ist zulässig.
 6. Scheidet ein Mitglied des Vorstands aus, ist eine Nachwahl in der nächsten Mitgliederversammlung anzustreben. Die Amtszeit bei Nachwahlen endet mit der Amtszeit des bestehenden Vorstands.
 7. Der Vorstand kann für die Dauer seiner Amtszeit durch Beschluss mit 2/3 Stimmenmehrheit weitere wählbare Mitglieder des Vereins für bislang nicht besetzte Beisitzerposten kooptieren.

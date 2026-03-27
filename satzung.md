@@ -84,18 +84,18 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 13. Für Satzungsänderungen und Beschlüsse zur Auflösung des Vereins oder zur Abberufung des Vorstands ist eine Zweidrittelmehrheit der abgegebenen Stimmen erforderlich.
 
 ## Der Vorstand
-1. Der Vorstand wird durch die Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Nicht gewählt werden können Mitglieder, die zum Zeitpunkt der Wahl das 18. Lebensjahr noch nicht vollendet haben und Personen, die im Verein angestellt sind.
-2. Vorstand im Sinne des § 26 BGB sind alle gewählten vertretenden Vorstandsmitglieder. Sie vertreten grundsätzlich jeweils einzeln. 
+1. Der vertretende Vorstand wird durch die Mitgliederversammlung auf die Dauer von zwei Jahren gewählt. Er besteht aus mindestens 4, maximal 6 Mitgliedern. Nicht gewählt werden können Mitglieder, die zum Zeitpunkt der Wahl das 18. Lebensjahr noch nicht vollendet haben und Personen, die im Verein angestellt sind.
+2. Vorstand im Sinne des § 26 BGB sind alle Mitglieder des vertrentenden Vorstands. Sie vertreten grundsätzlich jeweils einzeln. 
     a. Rechtsgeschäfte, die ein langfristiges oder zeitlich unbegrenztes Verhältnis zu Dritten begründen oder beenden, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands.
     b. Rechtsgeschäfte, die Konten oder Vermögenswerte des Vereins in erheblichem Maße beinflussen, bedürfen der Zustimmung mindestens zweier Mitglieder des vertretenden Vorstands. 
 3. Der Vorstand des Vereins besteht aus:
-    a. Mindestens 4, maximal 6 gewählten vertretenden Vorstandsmitgliedern. 
+    a. dem vertretendem Vorstand. 
     b. bis zu vier Beisitzerinnen.
 4. Der Vorstand gibt sich eine Geschäftsordnung. Diese ist den Mitgliedern unmittelbar mitzuteilen. Die Geschäftsordnung regelt mindestens
     a. Die Haftung und Vertretung des Vereins im Innenverhältnis. 
     b. Die Bestimmungen über die Rollen Schriftführerin und Kassenwartin.
 5. Mitglieder des Vorstands können nur Mitglieder des Vereins sein. Die Wiederwahl oder die vorzeitige Abberufung eines Mitglieds durch die Mitgliederversammlung ist zulässig.
-6. Scheidet ein Mitglied des Vorstands aus, ist eine Nachwahl in der nächsten Mitgliederversammlung anzustreben. Die Amtszeit bei Nachwahlen endet mit der Amtszeit des bestehenden Vorstands.
+6. Scheidet ein Mitglied des vertretenden Vorstands aus, ist eine Nachwahl in der nächsten Mitgliederversammlung anzustreben. Die Amtszeit bei Nachwahlen endet mit der Amtszeit des bestehenden vertretenden Vorstands.
 7. Der Vorstand kann für die Dauer seiner Amtszeit durch Beschluss mit 2/3 Stimmenmehrheit weitere wählbare Mitglieder des Vereins als Beisitzerinnen berufen und abberufen.
 8. Der Vorstand entscheidet in allen Vereinsangelegenheiten, soweit sie nicht der Mitgliederversammlung vorbehalten sind. Der Vorstand ist berechtigt, sachkundige Personen hinzuzuziehen.
 9. Der Vorstand ist bei Anwesenheit von 2/3 der Vorstandsmitglieder beschlussfähig. Er fasst Beschlüsse mit einfacher Mehrheit der anwesenden Mitglieder. Bei Stimmengleichheit ist der Antrag abgelehnt. Beschlüsse des Vorstands können bei Eilbedürftigkeit auch schriftlich oder fernmündlich gefasst werden, wenn alle Vorstandsmitglieder ihre Zustimmung zu diesem Verfahren schriftlich oder fernmündlich erklären. Schriftlich oder fernmündlich gefasste Vorstandsbeschlüsse sind schriftlich niederzulegen und vom Vorstand zu unterzeichnen.

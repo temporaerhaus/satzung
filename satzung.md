@@ -91,7 +91,7 @@ Diese Satzung verwendet in ihren Formulierungen aus Gründen der besseren Lesbar
 3. Der Vorstand des Vereins besteht aus:
     a. Mindestens 4, maximal 6 gewählten vertretenden Vorstandsmitgliedern. 
     b. bis zu vier Beisitzerinnen.
-4. Der Vorstand gibt sich eine Geschäftsordnung. Diese ist der Mitgliederversammlung vorzulegen. Die Geschäftsordnung regelt mindestens
+4. Der Vorstand gibt sich eine Geschäftsordnung. Diese ist den Mitgliedern unmittelbar mitzuteilen. Die Geschäftsordnung regelt mindestens
     a. Die Haftung und Vertretung des Vereins im Innenverhältnis. 
     b. Die Bestimmungen über die Rollen Schriftführerin und Kassenwartin.
 5. Mitglieder des Vorstands können nur Mitglieder des Vereins sein. Die Wiederwahl oder die vorzeitige Abberufung eines Mitglieds durch die Mitgliederversammlung ist zulässig.
